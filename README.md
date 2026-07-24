@@ -1,6 +1,6 @@
 # SGTaxPal
 
-[**Open the public interactive demo →**](https://influencees-tax-pal.zhur02.chatgpt.site)
+[**Open the public interactive demo →**](https://zhur02git.github.io/InfluenceesTaxPal/)
 
 SGTaxPal is an MVP finance and tax-recording dashboard for Singapore content creators. It helps creators record income and tax-related expenses, keep supporting invoices, and understand key IRAS considerations in plain language.
 
